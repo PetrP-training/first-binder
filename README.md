@@ -3,3 +3,5 @@
 # first-binder
 
 Tutorial repo
+
+[![DOI](https://zenodo.org/badge/537325112.svg)](https://zenodo.org/badge/latestdoi/537325112)
